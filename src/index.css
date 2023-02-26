@@ -1,0 +1,146 @@
+body {
+  margin: 0px;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;  
+  background-color: #f6f6f6;
+}
+
+th {
+  width: 120px;
+  padding-top:25px;
+  padding-bottom:30px;
+}
+
+td {
+  padding: 5px; 
+  margin: 100px;
+}
+
+.time{
+  height: 40px;
+}
+
+.Store {
+  align-items: center;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out;
+  width: 300px;
+  height: 150px;  
+}
+
+.Store:hover {
+  transform: scale(1.05);
+}
+
+.Store img {
+  width: 80px;
+  height: 80px;
+  margin-right: 20px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.Store-info {
+  flex-grow: 1;
+}
+
+.Store-store {
+  margin: 0 0 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.Store-name {
+  margin: 0;
+  font-size: 14px;
+}
+
+.Store-menu {
+  display: block;
+  margin-top: 10px;
+}
+
+.Store-menu button {
+  background-color: #f7c08a;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 16px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.Store-favorite {
+  margin: 0;
+  font-size: 12px;
+  color: #a3a3a3;
+}
+
+.Store.yellow {
+  background-color: #fff2cc;
+}
+
+.Store.blue {
+  background-color: #c9daf8;
+}
+
+.Store.green {
+  background-color: #d9ead3;
+}
+
+.Store.red {
+  background-color: #f4cccc;
+}
+
+@media (max-width: 480px) {
+  .Store {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+  }
+
+  .Store img {
+    width: 60px;
+    height: 60px;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .Store-info {
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .Store-menu {
+    margin: 0 auto;
+  }
+
+  .Store-menu button {
+    padding: 6px 12px;
+    font-size: 12px;
+  }
+
+  .Store-store {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
+  .Store-name {
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+
+  .Store-favorite {
+    font-size: 10px;
+  }
+}
+
+
