@@ -26,10 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://i.imgur.com/Nj0Eqco.gif 
-<video width="640" height="480" controls>
-  <source src="https://imgur.com/KaQOpdf" type="video/mp4">
-</video>
+https://imgur.com/KaQOpdf 
+![Alt Text](https://imgur.com/KaQOpdf)
 
 
 Created with Imgur
