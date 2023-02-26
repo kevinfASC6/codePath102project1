@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 https://i.imgur.com/Nj0Eqco.gif 
-![Alt Text]([https://i.imgur.com/Nj0Eqco.gif ](https://imgur.com/vxHlVgu))
+![Alt Text]([https://imgur.com/vxHlVgu]) 
+
 
 Created with Imgur
 
