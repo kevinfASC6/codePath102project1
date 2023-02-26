@@ -26,7 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://i.imgur.com/Nj0Eqco.gif
+https://i.imgur.com/Nj0Eqco.gif 
+<blockquote class="imgur-embed-pub" lang="en" data-id="vxHlVgu" data-context="false" ><a href="//imgur.com/vxHlVgu"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Created with Imgur
 
