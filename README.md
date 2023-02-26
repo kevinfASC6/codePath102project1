@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 https://imgur.com/KaQOpdf 
-![Alt Text](https://i.imgur.com/KaQOpdf.gif)
+![Alt Text](https://i.imgur.com/KaQOpdf.gif) 
+https://i.imgur.com/KaQOpdf.gif
 
 
 Created with Imgur
