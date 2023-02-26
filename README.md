@@ -30,13 +30,6 @@ https://imgur.com/a/9PvACs0
 
 Created with Imgur
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
 
 I had trouble trying to link my images, but I figured it out after watching a youtube video.
