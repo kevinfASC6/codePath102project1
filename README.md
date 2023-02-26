@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://imgur.com/a/9PvACs0 
+https://i.imgur.com/Nj0Eqco.gif
 
 Created with Imgur
 
